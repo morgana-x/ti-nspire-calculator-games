@@ -1,3 +1,4 @@
+#This is my second ever project (technically just an upgrade of my first)
 from ti_system import *
 from time import *
 from ti_draw import *
