@@ -1,4 +1,4 @@
-#First ever program, before I knew how stuff worked
+#First ever program, before I knew how stuff worked (This is was basicPlatformer, my second project, is based off)
 from ti_system import *
 from ti_draw import *
 plyx = 0
